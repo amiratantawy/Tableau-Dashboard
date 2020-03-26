@@ -3,6 +3,8 @@ Tableau ( data365 ) training project
 
 ## Link of the course :   https://365datascience.teachable.com/courses/enrolled/360090
 
+## Link of the Dashboard : https://eu-west-1a.online.tableau.com/#/site/amiratantawy/views/Dashboard/Dashboard1?:iid=1
+
 ## what I've learnt and applied in the project:
 
 1- Tbaleau role in corporate decision making.<br>
